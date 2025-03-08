@@ -1,8 +1,10 @@
 ## Hi there 👋 I'm Kristen
 
-I'm a CSE with experience in C#, Java, and Python. My projects range from building neural networks to designing CI/CD pipelines. I'm always excited about tackling new challenges and diving into emerging technologies.
+I'm a CSE with experience in C++, C#, Java, and Python. My primary skills are in backend development, but I have branched into some DevOps disciplines as well.
 
-- 🔭 I’m currently working on **graduating this december!**
+My projects range from building neural networks to designing CI/CD pipelines. I'm always excited about learning something new and diving into emerging technologies.
+
+- 🔭 I’m currently working on **automation pipelines**
 
 - 🌱 I’m currently learning **AI & ML models**
 
@@ -10,6 +12,12 @@ Check out my work and feel free to reach out!
 
 #### Connect with me <a href="https://linkedin.com/in/kristen-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristen-w" height="30" width="40" /></a>
 </p>
+
+### Projects
+
+You can find links to my publicly available work below.
+
+[College Projects](https://github.com/kristenw9/CollegeProjects)
 
 ### Tech Stack
 
